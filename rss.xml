@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AME]]></title>
-        <description><![CDATA[AME]]></description>
+        <title><![CDATA[AME Cloud Ventures]]></title>
+        <description><![CDATA[AME Cloud Ventures]]></description>
         <link>https://thegrid.ai/ame/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 01:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 02:01:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ame/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Test]]></title>
-            <description><![CDATA[<article><h1>Test</h1><p>test</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbaeb2f0d63f59b16e81b2c78580c3d13addd8ea.png"></article>]]></description>
+            <title><![CDATA[Post Title]]></title>
+            <description><![CDATA[<article><h1>Post Title</h1><p>Pot description</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbaeb2f0d63f59b16e81b2c78580c3d13addd8ea.png"></article>]]></description>
             <link>https://thegrid.ai/ame/test/index.html</link>
             <guid isPermaLink="false">6c01d82a-ea03-4e8d-af07-caa9fca677b1</guid>
-            <pubDate>Tue, 26 Jan 2016 01:54:09 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 02:01:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
